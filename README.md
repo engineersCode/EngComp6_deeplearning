@@ -28,7 +28,9 @@ Fitting a polynomial to data is a special case of multiple linear regression. Bu
 Observe underfitting and overfitting. Use regularization to avoid overfitting. This is also called _ridge regression_. 
 Do it with scikit-learn's `Ridge()`.
 
-### [Lesson 5](http://go.gwu.edu/engcomp6lesson5): Multiple logistic regression
+### [Lesson 5](http://go.gwu.edu/engcomp6lesson5): Multiple logistic regression (work-in-progress)
+
+### [Lesson 6]() Neural network model (coming soon)
 
 ## Copyright and License
 
