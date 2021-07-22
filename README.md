@@ -22,7 +22,11 @@ Composition of a linear model with the logistic function. Construct the logistic
 
 Use multiple independent variables to build a linear model. Express multiple linear regression in matrix form. Find the weights by gradient descent. Scale (normalize) the features to ensure convergence. Get acquainted with `scikit-learn`. Model accuracy. Linear regression with `scikit-learn` and with pseudo-inverse.
 
-### [Lesson 4](http://go.gwu.edu/engcomp6lesson4): Overfitting and regularization
+### [Lesson 4](http://go.gwu.edu/engcomp6lesson4): Polynomial regression
+
+Fitting a polynomial to data is a special case of multiple linear regression. Build polynomial features, scale the data, and train the model like in Lesson 3. For predictions with the model, use the scaling from the training data on the new data. 
+Observe underfitting and overfitting. Use regularization to avoid overfitting. This is also called _ridge regression_. 
+Do it with scikit-learn's `Ridge()`.
 
 ### [Lesson 5](http://go.gwu.edu/engcomp6lesson5): Multiple logistic regression
 
