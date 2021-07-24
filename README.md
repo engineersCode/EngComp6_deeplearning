@@ -2,11 +2,13 @@
 
 _Engineering Computations_ is a collection of stackable learning modules, flexible for adoption in different situations.
 It aims to develop computational skills for students in engineering, but it can also be used by students in other science majors.
-The course uses the Python programming language and the Jupyter open-source tools for interactive computing.
+The modules use the Python programming language and the Jupyter open-source tools for interactive computing.
+
+> Rather than "learning to code," our vision is "coding to learn."
 
 ## Module 6: deep learning
 
-*A step-by-step introduction to deep learning (a.k.a. neural network) models for scientists and engineers*
+*A step-by-step introduction to deep learning (a.k.a. neural network) models, aimed at scientists and engineers having a background in calculus and linear algebra.*
 
 **Pre-requisite: learning modules [*EngComp 1*](https://github.com/engineersCode/EngComp1_offtheground) and [*EngComp 4*](https://github.com/engineersCode/EngComp4_landlinear) of our collection.** Recommended: [*EngComp 2*](https://github.com/engineersCode/EngComp2_takeoff), or basic use of `pandas` for data manipulation.
 
@@ -30,7 +32,15 @@ Do it with scikit-learn's `Ridge()`.
 
 ### [Lesson 5](http://go.gwu.edu/engcomp6lesson5): Multiple logistic regression (work-in-progress)
 
-### [Lesson 6]() Neural network model (coming soon)
+A taste of more practical machine learning applications: _multiple logistic regression_  for the problem of identifying defective metal-casting parts.
+Turn an image into a vector of grayscale values to use it as input data, and set up a classification problem from multi-dimensional feature vectors.
+Split data into training, validation, and test datasets to assess model performance.
+Normalize the data using z-score.
+Evaluate the performance of a classification model using F-score.
+
+### [Lesson 6]() Multivariate regression (coming soon)
+
+### [Lesson 7]() Neural network model (coming soon)
 
 ## Copyright and License
 
