@@ -10,6 +10,8 @@ The modules use the Python programming language and the Jupyter open-source tool
 
 *A step-by-step introduction to deep learning (a.k.a. neural network) models, aimed at scientists and engineers having a background in calculus and linear algebra.*
 
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Step-by-step%20Deep%20Learning%20tutorial%20with%20Python%20for%20engineering%20students%20%23EngineersCode%20&url=https://github.com/engineersCode/EngComp6_deeplearning)
+
 **Pre-requisite: learning modules [*EngComp 1*](https://github.com/engineersCode/EngComp1_offtheground) and [*EngComp 4*](https://github.com/engineersCode/EngComp4_landlinear) of our collection.** Recommended: [*EngComp 2*](https://github.com/engineersCode/EngComp2_takeoff), or basic use of `pandas` for data manipulation.
 
 ### [Lesson 1](http://go.gwu.edu/engcomp6lesson1): Linear regression by gradient descent
