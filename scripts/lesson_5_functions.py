@@ -36,6 +36,7 @@ def logistic(x):
     The function does not restrict the shape of the input array. The output
     has the same shape as the input.
     """
+    x = numpy.clip(x, -300., 300.)
     return 1. / (1. + numpy.exp(-x))
 
 
